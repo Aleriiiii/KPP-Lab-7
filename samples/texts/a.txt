@@ -1,0 +1,2 @@
+Java was designed to be portable. A Java program runs on any JVM.
+Threads in Java let a program do several things at once.
